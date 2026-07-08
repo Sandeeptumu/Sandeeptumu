@@ -1,7 +1,5 @@
-<div align="center">
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Sandeep Banner" width="100%">
+  <img src="./banner.png" width="100%" alt="Sandeep Banner">
 </p>
 
 # Hi 👋, I'm Sandeep
