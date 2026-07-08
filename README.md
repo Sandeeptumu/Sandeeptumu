@@ -39,7 +39,7 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/Sandeeptumu" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:tumusandeep0000@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
