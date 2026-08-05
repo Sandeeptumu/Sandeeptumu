@@ -6,11 +6,6 @@
 
 ### ☕ Java Developer | 🎓 B.Tech Computer Science Student
 
-<p align="center">
-  <a href="https://github.com/Sandeeptumu">
-    <img src="https://komarev.com/ghpvc/?username=Sandeeptumu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-</p>
 
 </div>
 
