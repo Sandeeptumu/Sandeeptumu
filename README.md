@@ -106,7 +106,6 @@ An AI-powered academic project for summarizing notes and improving study efficie
 
 * ✅ Master Java Core
 * 🔄 Learn Spring Boot
-* 🔄 Solve 300+ DSA Problems
 * 🔄 Build 5+ Real-world Projects
 * 🔄 Contribute to Open Source
 * 🔄 Earn Java Certifications
